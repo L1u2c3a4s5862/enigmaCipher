@@ -3,7 +3,7 @@
 
 to install this repository
 ```
-cd enigma-cipher
+cd enigmaCiipher
 mv enigmaCodeBook /usr/local/bin
 mv enigmaCipher /usr/local/bin
 ```
