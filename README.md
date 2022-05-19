@@ -1,8 +1,11 @@
 # enigma-cipher
  enigma encrypter
 
-to install this repository
+**IT IS ONLY WORK ON MACOS AND LINUX SYSTEM**
+
+to install this tool
 ```
+git clone https://github.com/L1u2c3a4s5862/enigmaCipher.git
 cd enigmaCiipher
 mv enigmaCodeBook /usr/local/bin
 mv enigmaCipher /usr/local/bin
